@@ -1,7 +1,7 @@
 ![linkedin_cover](https://user-images.githubusercontent.com/2598782/159176974-8936c30c-33d0-4820-80b6-f84f3b73b163.png)
 
 <div align="center">
-  ℹ️ Front-end developer from Serbia 🇷🇸, currently living in Berlin 🇩🇪
+  ℹ️ Front-end engineer from Serbia 🇷🇸, currently living in Berlin 🇩🇪
 </div>
 <br>
 <div align="center">
